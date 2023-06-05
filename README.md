@@ -1,1 +1,1 @@
-# email-newspaper-template-sucor-sekuritas
+# Email Newspaper Template for Sucor Sekuritas
